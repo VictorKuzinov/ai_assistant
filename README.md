@@ -1,5 +1,5 @@
 # ИИ-ассистент для кафе "Луч" – Умное решение для бронирования столиков
-[Ссылка на проект, перейти к асистенту кафе "Луч"@ReservationOfTablesInCafesBot](https://t.me/username).
+[Ссылка на проект, перейти к асистенту кафе "Луч"@ReservationOfTablesInCafesBot](https://t.me/ReservationOfTablesInCafesBot).
 
 [Скриншот проекта](https://github.com/VictorKuzinov/ai_assistant/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82_%D0%BA%D0%B0%D1%84%D0%B5.png).
 ## Описание проекта
